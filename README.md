@@ -2,7 +2,7 @@
 
 A collection of my projects for Fall 2026.
 
-Passphrase = K******0
+*Note: must ctrl + s on file to save before pushing new commit*
 
 How to push new commits:
 get add .
